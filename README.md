@@ -4,6 +4,6 @@ Use https://formspree.io for form - Lora has login for this
 
 # Lora Kurusa – Personal Website
 
-foundation - robertsj
+foundation - robertsja
 added development - kumarshan19
 
